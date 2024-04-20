@@ -1,0 +1,49 @@
+/*Order Section*/
+
+.order {
+  width: 100%;
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.order .heading {
+  width: 100%;
+  display: flex;
+}
+
+.order-content {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(243, 242, 242);
+}
+
+.orderBox {
+  width: 50%;
+}
+
+.order form {
+  width: 100%;
+  margin: auto;
+  padding-left: auto;
+}
+
+.order form input,
+.order form textarea,
+button {
+  width: 90%;
+  padding: 10px;
+  margin-left: 5%;
+  margin-top: 10px;
+  resize: none;
+}
+
+.orderBox img {
+  width: 100%;
+}
+
+/* .order-content .box {
+  width: 50%;
+} */
