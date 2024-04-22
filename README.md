@@ -12,7 +12,6 @@ This project aims to visually showcase the products and varieties of dishes of a
 - Freepik.com & pexels.com: Sources used for images
 
 ## Objective
-
 The project focuses particularly on visual effects, animations, and details that enhance user experience. The aim is to create an interface that captivates users and presents the restaurant's products attractively.
 
 ## Project Details
