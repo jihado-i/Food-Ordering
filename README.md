@@ -15,7 +15,6 @@ This project aims to visually showcase the products and varieties of dishes of a
 The project focuses particularly on visual effects, animations, and details that enhance user experience. The aim is to create an interface that captivates users and presents the restaurant's products attractively.
 
 ## Project Details
-
 To review the project and view the code, you can access the following links:
 
 - [Project Link](https://lnkd.in/d8HiA5zW)
