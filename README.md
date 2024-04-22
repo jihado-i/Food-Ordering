@@ -24,5 +24,4 @@ To review the project and view the code, you can access the following links:
 - [Code](https://lnkd.in/d6S6bpHm)
 
 ## Feedback and Thoughts
-
 I eagerly await your feedback and thoughts on the project. Thank you!
