@@ -1,6 +1,7 @@
 # Restaurant Product Visual Showcase Project
 This project aims to visually showcase the products and varieties of dishes of a restaurant in an impressive manner. The goal of the project is to demonstrate frontend skills and creativity.
 
+
 ## Technologies Used
 - HTML
 - CSS
