@@ -4,7 +4,7 @@ This project aims to visually showcase the products and varieties of dishes of a
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
+- JavaScript 
 - Google Fonts
 - FontAwesome icons
 
