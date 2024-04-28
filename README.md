@@ -8,6 +8,7 @@ This project aims to visually showcase the products and varieties of dishes of a
 - Google Fonts
 - FontAwesome icons
 
+
 ## Resources Used
 - Freepik.com & pexels.com: Sources used for images.
 
