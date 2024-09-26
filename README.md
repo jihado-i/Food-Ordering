@@ -19,7 +19,6 @@ The project focuses particularly on visual effects, animations, and details that
 ## Project Details
 To review the project and view the code, you can access the following links:
 - [Project Link](https://lambent-tulumba-afbeec.netlify.app/)
-- [Code](https://lnkd.in/d6S6bpHm)
 
 ## Feedback and Thoughts
 I eagerly await your feedback and thoughts on the project. Thank you!
