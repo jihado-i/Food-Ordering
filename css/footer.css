@@ -1,0 +1,24 @@
+/*footer*/
+
+footer {
+  background: #000;
+  text-align: center;
+}
+
+footer .share {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+footer h1 {
+  padding: 2rem 1rem;
+  color: #fff;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+footer h1 span {
+  color: var(--red);
+}

@@ -1,0 +1,63 @@
+/*Order Section*/
+
+.order {
+  width: 100%;
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.order .heading {
+  width: 100%;
+  display: flex;
+}
+
+.order-content {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(243, 242, 242);
+}
+
+.orderBox {
+  width: 50%;
+}
+
+.order form {
+  width: 100%;
+  margin: auto;
+  padding-left: auto;
+}
+
+.order form input,
+.order form textarea,
+.order form select,
+button {
+  width: 90%;
+  padding: 10px;
+  margin-left: 5%;
+  margin-top: 10px;
+  resize: none;
+}
+
+
+.orderBox img {
+  width: 100%;
+}
+
+#success-alert{
+  width: 90%;
+  margin: auto;
+  display:none;
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+  padding: 10px 20px;
+  margin-bottom: 15px; 
+  border-radius: 5px;
+}
+
+/* .order-content .box {
+  width: 50%;
+} */

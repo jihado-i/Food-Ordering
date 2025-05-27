@@ -1,0 +1,28 @@
+/*Steps*/
+
+.steps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding: 1rem 0;
+}
+
+.steps .box {
+  flex: 1 1 25rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.steps .box img {
+  max-width: 50%;
+  max-height: 50%;
+  border-radius: 50%;
+  border: 1rem solid #fff;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.steps .box h3 {
+  color: #333;
+  font-size: 2.5rem;
+  padding: 1rem;
+}
