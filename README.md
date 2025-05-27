@@ -34,7 +34,7 @@ This project focuses particularly on:
 
 ## 🔗 Project Details
 You can view the live version of the project here:  
-👉 [**Project Link**](https://jihado-i.github.io/Food-Order/)
+👉 [**Project Link**](https://jihado-i.github.io/Food-Ordering/)
 
 ---
 
